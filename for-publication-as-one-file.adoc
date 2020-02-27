@@ -35,95 +35,6 @@ Testbed 15 work resulted in:
 * Submission of the various prototype OGC API specifications into the OGC Standard Program for continued development and consensus approval as OGC Standards.
 * The next major OGC Initiative, https://portal.opengeospatial.org/files/91644[Testbed-16], runs April to December 2020, with testbed results to be reported as part of the OGC Technical Committee meetings in September and December 2020.
 
-[[Testbed15Facts]]
-
-= Testbed 15 Facts
-
-[big red yellow-background]*Research and Rapid Prototyping with the goal of enhancing and extending the OGC Standards Baseline to meet Community requirements.*
-
-In OGC’s annual testbeds, sponsoring organisations specify interoperability requirements to address both their needs as well as gaps in the https://www.opengeospatial.org/standards[OGC Standards Baseline]. OGC staff integrate these requirements into a formal https://www.opengeospatial.org/pressroom/pressreleases/2927[Call for Participation (CFP)]. Technology providers, also known as participants, then receive cost-share support and funding to collaboratively research and rapidly develop prototype solutions. When the testbed is completed, the results are documented in https://www.opengeospatial.org/docs/er[OGC Engineering Reports]. The Engineering Reports may specify change requests to existing OGC standards, extensions to an existing standard, or even a new draft specification. These are submitted to the OGC Standards Program for discussion, consideration, and eventually Member approved consensus-based open standards and best practices.
-
-[[Facts]]
-
-=== Facts
-
-The following are key facts about the OGC Testbed 15 activity.
-
-* <<Sponsoring,8 Sponsoring Member organizations>>
-* 30 Representatives from the 8 Sponsoring Organizations
-* 66 Active individual particpants from <<Participating,22 Member Organizations>>.
-* 113 Observers representing 72 Member Organizations.
-* 16 <<ER_Overview,Engineering Reports>> written and approved for public release
-
-Testbed-15 commenced with a Kickoff Workshop in early April, 2019, hosted by the USGS at their Reston Virgina facility. The Testbed activity culminated with presentations and short demonstrations at the November 2019 Technical Committee meetings in Toulouse France.
-
-[[Threads]]
-
-=== Testbed 15 Key Work Activities (Threads)
-
-The Testbed is organized in a number of threads. Each thread combines a number of tasks that are further defined in the Call for Participation. The threads integrate both an architectural and a thematic view, which allows keeping related work items close together and removing dependencies across threads. Click on the link if you want to read the detailed description of a Thread as provided in the CFP. In addition, short overviews are provided <<thread-summaries,here>>.
-
-* Thread 1: Secure Data and Federated Clouds (SFC)
-** https://portal.opengeospatial.org/files/?artifact_id=82290#DataCentricSecurity[Data Centric Security]
-** https://portal.opengeospatial.org/files/?artifact_id=82290#FederatedCloudAnalytics[Federated Cloud Analytics]
-* Thread 2: Cloud Processing and Portrayal (CPP)
-** https://portal.opengeospatial.org/files/?artifact_id=82290#EOPAD[Earth Observation Process and Application Discovery]
-** https://portal.opengeospatial.org/files/?artifact_id=82290#Portrayal[Open Portrayal Framework]
-* Thread 3: Machine Learning and Delta Updates (MLD)
-** https://portal.opengeospatial.org/files/?artifact_id=82290#MachineLearning[Machine Learning]
-** https://portal.opengeospatial.org/files/?artifact_id=82290#DeltaUpdates[Delta Updates]
-
-[[Demonstrations]]
-
-=== Online Demonstrations
-
-In addition to the Engineering Reports, the participants developed a suite of videos that showcase the results of the work done. The videos are available on the https://www.youtube.com/channel/UCR5YGb1pVBBFV-XNA6mA0gg[Open Geospatial YouTube channel]. If you navigate to the OGC YouTube channel, then click on the Testbed 15 playlist. Also take the opportunity to view other videos that document a variety of OGC Interoperability Initiatives.
-
-[[Sponsoring]]
-
-=== Sponsoring Organizations
-
-The following OGC Member organizations and others sponsored OGC Testbed 15. The sponsors provided interoperability requirements, use cases, and scenarios. The also provided cost share funding as well as geospatial data as required to run the scenarios.
-
-|===
-|image:images/dstl-logo.png[width=60,height=50]  | https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory[Defence Science and Technology Laboratory (Dstl)]
-|image:images/esa-logo.png[width=100,height=50]  | https://www.esa.int/[European Space Agency (ESA)]
-|image:images/eusc-logo.png[width=150,height=50] | https://www.satcen.europa.eu/[European Union Satellite Centre (SatCen)]
-|image:images/nrcan-logo.png[width=170,height=50]| https://www.nrcan.gc.ca/[Natural Resources Canada (NRCan)]
-|image:images/usgs-logo.png[width=120,height=50] | https://www.usgs.gov/[US Geological Survey (USGS)]
-|image:images/nasa-logo.png[width=100,height=50] | https://www.nasa.gov/[US National Aeronautics and Space Administration (NASA)]
-|===
-
-[[Participating]]
-
-=== Participating Organizations
-
-The following organizations were selected as official Testbed 15 participants. Each particpating organization had specific deliverables and tasks based on their responses to the Call for Participation.
-
-|===
-|http://www.52north.org/[52 North]             | Germany
-|http://www.asu.edu/[Arizona Board of Regents] | US
-|http://www.compusult.net/[Compusult]          | Canada
-|http://www.crim.ca/[CRIM]                     | Canada
-|http://www.cubewerx.com/[CubeWerx]            | Canada
-|http://www.elecnor-deimos.com/[Deimos Space]  | Spain
-|http://www.digitalglobe.com/[DigitalGlobe]    | US
-|http://ecere.ca/[Ecere]                       | Canada
-|http://frisia-it.com/[Frisia IT]              | Germany
-|http://www.geo-solutions.it/[GeoSolutions]    | Italy
-|http://csiss.gmu.edu/[CSISS George Mason University] | US
-|http://www.helyx.co.uk/[Helyx Ltd.]           | UK
-|http://www.imagemattersllc.com/[Image Matters] | US
-|http://www.interactive-instruments.de/[interactive instruments] | Germany
-|http://www.rasdaman.com/[rasdaman]            | Germany
-|http://www.rheagroup.com/[RHEA Group]         | Belgium
-|http://www.secure-dimensions.de/[Secure Dimensions] |Germany
-|http://www.skymantics.com/[Skymantics]        | US
-|http://www.solenix.ch/[Solenix Deutschland]   | Germany
-|http://www.spacebel.be/[Spacebel]             | Belgium
-|http://www.terradue.com/[Terradue]            |Italy
-|http://www.creaf.uab.es/miramon[UAB-CREAF]    |Spain
-|===
 
 [[thread-summaries]]
 
@@ -583,3 +494,92 @@ https://maps4html.github.io/MapML/spec/[MapML] is a text format for encoding map
 The Quebec Model MapML ER describes the Map Markup Language (MapML) enabled client implementation for the Quebec Lake-River Differentiation Model in the Machine Learning (ML) task. This ER details the MapML parsing capabilities that were developed to illustrate the outputs of a ML model to delineate lake and river features from an undifferentiated waterbody vector dataset in Québec, Canada. Client data was accessed through an OGC Web Processing Service (WPS) interface in coordination with an OGC API - Features implementation.
 
 The ER concludes that MapML is suitable for representing not only a selection of features from a data source, but may also be useful as a metadata document describing a collection of information. MapML could provide links into the collection using map semantics (bounding boxes, tiles, images, features etc.).
+
+[[Testbed15Facts]]
+
+= Testbed 15 Facts
+
+[big red yellow-background]*Research and Rapid Prototyping with the goal of enhancing and extending the OGC Standards Baseline to meet Community requirements.*
+
+In OGC’s annual testbeds, sponsoring organisations specify interoperability requirements to address both their needs as well as gaps in the https://www.opengeospatial.org/standards[OGC Standards Baseline]. OGC staff integrate these requirements into a formal https://www.opengeospatial.org/pressroom/pressreleases/2927[Call for Participation (CFP)]. Technology providers, also known as participants, then receive cost-share support and funding to collaboratively research and rapidly develop prototype solutions. When the testbed is completed, the results are documented in https://www.opengeospatial.org/docs/er[OGC Engineering Reports]. The Engineering Reports may specify change requests to existing OGC standards, extensions to an existing standard, or even a new draft specification. These are submitted to the OGC Standards Program for discussion, consideration, and eventually Member approved consensus-based open standards and best practices.
+
+[[Facts]]
+
+=== Facts
+
+The following are key facts about the OGC Testbed 15 activity.
+
+* <<Sponsoring,8 Sponsoring Member organizations>>
+* 30 Representatives from the 8 Sponsoring Organizations
+* 66 Active individual particpants from <<Participating,22 Member Organizations>>.
+* 113 Observers representing 72 Member Organizations.
+* 16 <<ER_Overview,Engineering Reports>> written and approved for public release
+
+Testbed-15 commenced with a Kickoff Workshop in early April, 2019, hosted by the USGS at their Reston Virgina facility. The Testbed activity culminated with presentations and short demonstrations at the November 2019 Technical Committee meetings in Toulouse France.
+
+[[Threads]]
+
+=== Testbed 15 Key Work Activities (Threads)
+
+The Testbed is organized in a number of threads. Each thread combines a number of tasks that are further defined in the Call for Participation. The threads integrate both an architectural and a thematic view, which allows keeping related work items close together and removing dependencies across threads. Click on the link if you want to read the detailed description of a Thread as provided in the CFP. In addition, short overviews are provided <<thread-summaries,here>>.
+
+* Thread 1: Secure Data and Federated Clouds (SFC)
+** https://portal.opengeospatial.org/files/?artifact_id=82290#DataCentricSecurity[Data Centric Security]
+** https://portal.opengeospatial.org/files/?artifact_id=82290#FederatedCloudAnalytics[Federated Cloud Analytics]
+* Thread 2: Cloud Processing and Portrayal (CPP)
+** https://portal.opengeospatial.org/files/?artifact_id=82290#EOPAD[Earth Observation Process and Application Discovery]
+** https://portal.opengeospatial.org/files/?artifact_id=82290#Portrayal[Open Portrayal Framework]
+* Thread 3: Machine Learning and Delta Updates (MLD)
+** https://portal.opengeospatial.org/files/?artifact_id=82290#MachineLearning[Machine Learning]
+** https://portal.opengeospatial.org/files/?artifact_id=82290#DeltaUpdates[Delta Updates]
+
+[[Demonstrations]]
+
+=== Online Demonstrations
+
+In addition to the Engineering Reports, the participants developed a suite of videos that showcase the results of the work done. The videos are available on the https://www.youtube.com/channel/UCR5YGb1pVBBFV-XNA6mA0gg[Open Geospatial YouTube channel]. If you navigate to the OGC YouTube channel, then click on the Testbed 15 playlist. Also take the opportunity to view other videos that document a variety of OGC Interoperability Initiatives.
+
+[[Sponsoring]]
+
+=== Sponsoring Organizations
+
+The following OGC Member organizations and others sponsored OGC Testbed 15. The sponsors provided interoperability requirements, use cases, and scenarios. The also provided cost share funding as well as geospatial data as required to run the scenarios.
+
+|===
+|image:images/dstl-logo.png[width=60,height=50]  | https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory[Defence Science and Technology Laboratory (Dstl)]
+|image:images/esa-logo.png[width=100,height=50]  | https://www.esa.int/[European Space Agency (ESA)]
+|image:images/nrcan-logo.png[width=170,height=50]| https://www.nrcan.gc.ca/[Natural Resources Canada (NRCan)]
+|image:images/usgs-logo.png[width=120,height=50] | https://www.usgs.gov/[US Geological Survey (USGS)]
+|image:images/nasa-logo.png[width=100,height=50] | https://www.nasa.gov/[US National Aeronautics and Space Administration (NASA)]
+|===
+
+[[Participating]]
+
+=== Participating Organizations
+
+The following organizations were selected as official Testbed 15 participants. Each particpating organization had specific deliverables and tasks based on their responses to the Call for Participation.
+
+|===
+|http://www.52north.org/[52 North]             | Germany
+|http://www.asu.edu/[Arizona Board of Regents] | US
+|http://www.compusult.net/[Compusult]          | Canada
+|http://www.crim.ca/[CRIM]                     | Canada
+|http://www.cubewerx.com/[CubeWerx]            | Canada
+|http://www.elecnor-deimos.com/[Deimos Space]  | Spain
+|http://www.digitalglobe.com/[DigitalGlobe]    | US
+|http://ecere.ca/[Ecere]                       | Canada
+|http://frisia-it.com/[Frisia IT]              | Germany
+|http://www.geo-solutions.it/[GeoSolutions]    | Italy
+|http://csiss.gmu.edu/[CSISS George Mason University] | US
+|http://www.helyx.co.uk/[Helyx Ltd.]           | UK
+|http://www.imagemattersllc.com/[Image Matters] | US
+|http://www.interactive-instruments.de/[interactive instruments] | Germany
+|http://www.rasdaman.com/[rasdaman]            | Germany
+|http://www.rheagroup.com/[RHEA Group]         | Belgium
+|http://www.secure-dimensions.de/[Secure Dimensions] |Germany
+|http://www.skymantics.com/[Skymantics]        | US
+|http://www.solenix.ch/[Solenix Deutschland]   | Germany
+|http://www.spacebel.be/[Spacebel]             | Belgium
+|http://www.terradue.com/[Terradue]            |Italy
+|http://www.creaf.uab.es/miramon[UAB-CREAF]    |Spain
+|===
